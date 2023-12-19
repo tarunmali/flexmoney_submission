@@ -1,6 +1,6 @@
 ﻿# flexmoney_submission
 
 
-
-[![Watch the video](https://i.postimg.cc/9XKsprgf/flexmoney-thumbnail.jpg)](https://www.youtube.com/watch?v=uc_ZqWY1o4g)
+## Watch demo video
+[![Watch the video](https://i.postimg.cc/zvwgQLNg/photofunny-net.jpg)](https://www.youtube.com/watch?v=uc_ZqWY1o4g)
 
